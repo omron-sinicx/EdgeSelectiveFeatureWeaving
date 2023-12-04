@@ -2,7 +2,8 @@
 This repository contains a PyTorch-lightning implementation of the ESFW module proposed in our paper Edge-Selective Feature Weaving for Point Cloud Matching https://arxiv.org/pdf/2202.02149v1.pdf. 
 
 ## Note
-Our code is created based on https://github.com/ZENGYIMING-EAMON/CorrNet3D
+- The code with RoITr will be published soon. (4th Dec. 2023)
+- Our code is created based on https://github.com/ZENGYIMING-EAMON/CorrNet3D
 
 ## Installation
 ```
